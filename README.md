@@ -1,0 +1,1 @@
+Ordering new items has never been easier. The supermarket GUI in python asks customers and vendors to enter their name, item they would like to send an invoice to vendors, for items they would like to purchase as well as price per unit. 
